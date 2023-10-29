@@ -1,2 +1,2 @@
 # shravn
-This is a Demo for Git &amp; Github account
+This is a Demo for Git &amp; Github account.
